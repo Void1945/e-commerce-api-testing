@@ -1,16 +1,16 @@
 # E-commerce API End-to-End Testing Suite
-**Overview**
+**OVERVIEW**
 
 This repository contains a comprehensive suite of API requests and tests for end-to-end testing of an e-commerce platform. The purpose of this project is to thoroughly validate the functionality and reliability of the e-commerce platform's API endpoints across various stages of the product lifecycle, including product creation, order processing, and deletion.
 
-**Technologies Used**
+**TECHNOLOGIES USED**
 
 Postman: Utilized as the primary tool for sending API requests, organizing collections, and executing tests.
 JSON Schema: Employed for validating the structure and format of API responses to ensure data integrity and compliance with expected specifications.
 Getting Started
 To utilize this API testing suite, follow the steps below:
 
-**Installation and Setup**
+**INSTALLATION AND SETUP**
 
 Clone this repository to your local machine:
 git clone **https://github.com/your-username/e-commerce-api-testing.git**
@@ -20,20 +20,20 @@ Import the Postman collection (e-commerce-api-testing.postman_collection.json) i
 
 Set up any necessary environment variables required for authentication or configuration. Refer to the collection's environment settings for guidance.
 
-**Usage**
+**USAGE**
 
 Run the collection in Postman to execute the API requests and tests.
 Review the request descriptions and documentation for each request to understand their purpose and expected behavior.
 Interpret the test results to ensure the API endpoints are functioning as expected.
 
-**Troubleshooting**
+**TROUBLESHOOTING**
 
 If you encounter any issues, refer to the troubleshooting tips below:
 Authentication Errors: Double-check your credentials and ensure they are correctly configured in the environment variables.
 Schema Validation Failures: Review the JSON Schema validation rules and compare them against the response data to identify any discrepancies.
 Network Connectivity Issues: Ensure your network connection is stable and not blocking the API requests.
 
-**Collection Structure**
+**COLLECTION STRUCTURE**
 
 The Postman collection is organized into the following requests:
 
