@@ -38,10 +38,15 @@ Network Connectivity Issues: Ensure your network connection is stable and not bl
 The Postman collection is organized into the following requests:
 
 **Login:** Authenticate user access to the e-commerce platform.
+
 **Create the Product:** Add a new product listing to the store inventory.
+
 **Create the Order for That Product:** Place an order for a specific product.
+
 **Get the Order Details:** Retrieve detailed information about a specific order.
+
 **Delete the Order:** Cancel and remove a previously placed order.
+
 **Delete the Product:** Remove a product listing from the store inventory.
 
 **Testing Strategy**
